@@ -32,15 +32,15 @@ class _LoginPageState extends State<LoginPage> {
     return Container(
       child: Column (
         children: <Widget>[
-          Form(
+      //    Form(
 
 
 
-//              txtForm("Username", Icons.people),
-//              txtForm("Pin", Icons.lock),
-//              button("signIn")
+              txtForm("Username", Icons.people),
+              txtForm("Pin", Icons.lock),
+              button("signIn")
 
-          )
+   //       )
 
         ],
       ),
